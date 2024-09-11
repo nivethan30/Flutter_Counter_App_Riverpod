@@ -1,1 +1,3 @@
-# Flutter_Counter_App_Riverpod
+# counter_riverpod
+
+A new Flutter project.
